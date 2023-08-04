@@ -7,14 +7,13 @@ const Header = () => {
     <>
       <header
         className={
-          "fixed top-0 w-full  z-30 bg-white-500 transition-all pt-4"
+          "fixed top-0 w-full z-30 transition-all pt-4"
         }
       >
         <nav className="px-6 sm:px-8 lg:px-16 mx-auto grid grid-flow-col py-3 sm:py-4">
           <div className="col-start-1 col-end-2 flex items-center">
-            <LogoVPN className="h-8 w-auto" />
-            <div className="pl-4 pr-4 text-xl">
-              Kaigen<b>AI</b>
+            <div className="pl-4 pr-4 text-3xl">
+              Poka<b className="text-orange-500">Labs</b>
             </div>
           </div>
 

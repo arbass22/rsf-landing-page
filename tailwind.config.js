@@ -41,7 +41,8 @@ module.exports = {
         500: "#DDDDDD",
       },
     },
-    extend: {},
+    extend: {
+    },
   },
   variants: {
     extend: {

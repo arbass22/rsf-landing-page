@@ -7,7 +7,7 @@ import SeoHead from "../components/SeoHead";
 export default function Home() {
   return (
     <>
-      <SeoHead title='Kaigen AI' />
+      <SeoHead title='Poka Labs' />
       <Layout>
         <Hero />
         {/* <Feature /> */}

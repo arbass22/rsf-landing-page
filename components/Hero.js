@@ -19,7 +19,7 @@ const Hero = () => {
           variants={scrollAnimation}>
           <div className=" flex flex-col justify-center items-start row-start-2 sm:row-start-1">
             <h1 className="text-3xl lg:text-4xl xl:text-5xl font-medium text-black-600 leading-normal">
-              We're building no-code analytics tools for the process industry.
+              We're building no-code analytics tools for the specialty chemicals industry.
             </h1>
             <div className="mt-8">
               <Link href="https://calendly.com/andrew_bass/30min">
