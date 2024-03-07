@@ -22,7 +22,7 @@ const Hero = () => {
               We're building no-code analytics tools for the specialty chemicals industry.
             </h1>
             <div className="mt-8">
-              <Link href="https://calendly.com/andrew_bass/30min">
+              <Link href="https://calendly.com/yalamshah/30-min">
                 <div href="google.com" className="py-3 lg:py-4 px-12 lg:px-16 text-white-500 font-semibold rounded-lg bg-orange-500 hover:shadow-orange-md transition-all outline-none">
                   Talk to Us
                 </div>
